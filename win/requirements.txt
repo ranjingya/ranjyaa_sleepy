@@ -1,0 +1,5 @@
+pynput
+pygetwindow
+psutil
+GPUtil
+requests
