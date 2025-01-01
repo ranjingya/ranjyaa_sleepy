@@ -64,6 +64,8 @@
 
 # 后言
 
-安卓端的监控代码还没写。可以参考[芥子](https://github.com/1812z/sleepy)的仓库
+- 安卓端的监控代码还没写。可以参考[芥子](https://github.com/1812z/sleepy)的仓库
 > 这ai笑死我了  
-![img_1.png](img_1.png)
+![img_1.png](img_1.png)  
+  
+- 监控代码没有脚本化，可以自行实现，开机自启
